@@ -1,0 +1,15 @@
+{
+  "name": "the-money-manager",
+  "version": "1.0.0",
+  "description": "An app witch help everyone with the gestion of the flux and the money",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "money",
+    "management"
+  ],
+  "author": "Tiavina ANDRIAMAMIVONY",
+  "license": "ISC"
+}
